@@ -34,7 +34,7 @@ int main() {
             totalPunto += productoPunto[k];
         }
 
-        printf("%f \n", totalPunto);
+
         float suma1= 0, suma2 = 0, segEcua1= 0 , segEcua2 = 0, ecuacionFinal= 0 , ecuacionFinalFinal;
         // elevar todos los elementos del vector a la 2
         for (int i = 0; i < a ; ++i) {
@@ -50,7 +50,7 @@ int main() {
 
         ecuacionFinal= totalPunto/(segEcua1*segEcua2);
 
-        ecuacionFinalFinal = acosf(ecuacionFinal);
+        ecuacionFinalFinal = acosf(ecuacionFinal)*val;// aqui se ponen los grados uwu
 
         printf("%f \n Esta es el resultado", ecuacionFinalFinal);
 
