@@ -1,0 +1,3 @@
+C:/Users/Marteen Munevar/CLionProjects/proyecto_gabi/cmake-build-debug/CMakeFiles/proyecto_gabi.dir
+C:/Users/Marteen Munevar/CLionProjects/proyecto_gabi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marteen Munevar/CLionProjects/proyecto_gabi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
